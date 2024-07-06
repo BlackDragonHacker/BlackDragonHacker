@@ -1,4 +1,4 @@
-<h1 align="center">Hi,  I'm Black Dragon Hacker</h1> 🌱 I’m currently learning **WEB Development, Bot Development** <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="center">Hi 👋, I'm Ade Arman Wijaya</h1> 🌱 I’m currently learning **WEB Development, Bot Development** <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,7 +39,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BlackDragonHacker&show_icons=true&theme=dark&locale=en)" alt="adearman" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackDragonHacker&show_icons=true&theme=dark&locale=en&layout=compact" alt="BlackDragonHacker" />
 </p>
 <br>
 <br>
@@ -48,7 +48,7 @@
 <br>
 <br>
 <br>
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=adearman&show_icons=true&theme=dark&locale=en" alt="adearman" />
+<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=BlackDragonHacker&show_icons=true&theme=dark&locale=en" alt="BlackDragonHacker" />
 </p>
 <br>
 <br>
@@ -61,7 +61,7 @@
 <br>
 <br>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adearman&theme=dark" alt="adearman" />
+  <img align="left" src="" alt="BlackDragonHacker" />
 </p>
 <br>
 <br>
@@ -76,19 +76,13 @@
 <hr width="60%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adearmanwijaya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="40" width="40" />
-  </a>
 
-  <a href="https://instagram.com/ad.armand" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adearman" height="40" width="40" />
-  </a>
-  <a href="https://t.me/r_ghalibie" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="adearman" height="40" width="40" />
+  <a href="https://t.me/BlackDragonHacker007" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="BlackDragonHacker" height="40" width="40" />
   </a> 
   
 </p>
 <br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adearman&label=Profile%20views&color=0e75b6&style=flat" alt="adearman" />
+  <img src="https://komarev.com/ghpvc/?username=BlackDragonHacker&label=Profile%20views&color=0e75b6&style=flat" alt="BlackDragonHacker" />
 </p>
