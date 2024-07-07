@@ -10,6 +10,10 @@
 <a href="https://t.me/BlackDragonHacker007" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Black Dragon Hacker" height="40" width="40" />
   </a> 
+    </a>
+  <a href="https://blackdragonhacker007.blogspot.com/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/180px-Blogger_icon_2017.svg.png" alt="adearman" height="40" width="40" />
+  </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
