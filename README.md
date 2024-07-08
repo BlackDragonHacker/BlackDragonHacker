@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Trophy</title>
 </head>
 <body>
     <table border="0" style="width: 100%; height: 100vh;">
