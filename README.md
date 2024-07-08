@@ -1,28 +1,22 @@
 <h1 align="center">Hi 👋, I'm Black Dragon Hacker</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdragonhacker&label=Profile%20views&color=0e75b6&style=flat" alt="blackdragonhacker" /> </p>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Profile Trophy</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-    </style>
 </head>
 <body>
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=blackdragonhacker&theme=alduin&column=4" alt="blackdragonhacker" />
-        </a>
-    </div>
+    <table border="0" style="width: 100%; height: 100vh;">
+        <tr>
+            <td align="center" valign="middle">
+                <a href="https://github.com/ryo-ma/github-profile-trophy">
+                    <img src="https://github-profile-trophy.vercel.app/?username=blackdragonhacker&theme=alduin&column=4" alt="blackdragonhacker" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
