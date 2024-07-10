@@ -30,7 +30,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/180px-Blogger_icon_2017.svg.png" alt="adearman" height="40" width="40" />
   </a> 
   <a href="https://gitlab.com/BlackDragonHacker" target="blank">
-    <img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="adearman" height="40" width="40" />
+    <img align="center" src="https://static-00.iconduck.com/assets.00/gitlab-icon-256x256-hqgbug3r.png" alt="adearman" height="40" width="40" />
   </a> 
 </p>
 
