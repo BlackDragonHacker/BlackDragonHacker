@@ -26,7 +26,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Black Dragon Hacker" height="40" width="40" />
   </a> 
     <a href="https://youtube.com/@blackdragonhacker" target="blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="Black Dragon Hacker" height="50" width="50" />
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="Black Dragon Hacker" height="60" width="60" />
   </a> 
     </a>
   <a href="https://blackdragonhacker007.blogspot.com/" target="blank">
