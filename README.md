@@ -32,12 +32,11 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/BlackDragonHacker">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackDragonHacker&theme=dark" alt="blackdragonhacker" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/BlackDragonHacker">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdragonhacker&theme=dark" alt="blackdragonhacker" />
