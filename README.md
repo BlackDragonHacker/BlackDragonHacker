@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Black Dragon Hacker</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blackdragonhacker&label=Profile%20views&color=0e75b6&style=flat" alt="blackdragonhacker" />
-</p>
-<!DOCTYPE html>
-<html<p align="center">
+</p><p align="center">
     <a href="https://github.com/BlackDragonHacker">
         <img src="https://github-profile-trophy.vercel.app/?username=blackdragonhacker&theme=alduin&column=4" alt="blackdragonhacker" />
     </a>
