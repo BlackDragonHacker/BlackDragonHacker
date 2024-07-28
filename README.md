@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Black Dragon Hacker</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blackdragonhacker&label=Profile%20views&color=0e75b6&style=flat" alt="blackdragonhacker" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackdragonhacker&label=Profile%20views&color=0e75b6&style=flat" alt="blackdragonhacker" />
+</p>
 <!DOCTYPE html>
 <html lang="en">
 <head>
