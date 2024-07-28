@@ -3,25 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=blackdragonhacker&label=Profile%20views&color=0e75b6&style=flat" alt="blackdragonhacker" />
 </p>
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <table border="0" style="width: 100%; height: 100vh;">
-        <tr>
-            <td align="center" valign="middle">
-                <a href="https://github.com/BlackDragonHacker">
-                    <img src="https://github-profile-trophy.vercel.app/?username=blackdragonhacker&theme=alduin&column=4" alt="blackdragonhacker" />
-                </a>
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+<html<p align="center">
+    <a href="https://github.com/BlackDragonHacker">
+        <img src="https://github-profile-trophy.vercel.app/?username=blackdragonhacker&theme=alduin&column=4" alt="blackdragonhacker" />
+    </a>
+</p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="center">Follow Me 👇</h3>
 <p align="center">
 <a href="https://t.me/BlackDragonHacker007" target="blank">
