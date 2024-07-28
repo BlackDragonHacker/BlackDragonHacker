@@ -20,7 +20,7 @@
 </html>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Follow Me 👇</h3>
 <p align="left">
 <a href="https://t.me/BlackDragonHacker007" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Black Dragon Hacker" height="40" width="40" />
