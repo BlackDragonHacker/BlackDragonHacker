@@ -44,6 +44,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackDragonHacker&theme=dark" alt="blackdragonhacker" /></p>
 
-<p style="text-align: center;">
+<div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdragonhacker&theme=dark" alt="blackdragonhacker" />
-</p>
+</div>
