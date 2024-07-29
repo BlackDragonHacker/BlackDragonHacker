@@ -17,7 +17,7 @@
   </a> 
     </a>
     <a href="https://www.facebook.com/BlackDragonHacker007" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1200px-2023_Facebook_icon.svg.png" alt="Black Dragon Hacker" height="60" width="60" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1200px-2023_Facebook_icon.svg.png" alt="Black Dragon Hacker" height="40" width="40" />
   </a> 
     </a>
   <a href="https://blackdragonhacker007.blogspot.com/" target="blank">
